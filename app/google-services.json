@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356579310170",
+    "firebase_url": "https://buttonclick-ae6a2.firebaseio.com",
+    "project_id": "buttonclick-ae6a2",
+    "storage_bucket": "buttonclick-ae6a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356579310170:android:4147a30f65f86be2",
+        "android_client_info": {
+          "package_name": "com.two_two.buttonclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356579310170-a8rklp3sk07gf5ehk9ccsp3r5403dqun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.two_two.buttonclick",
+            "certificate_hash": "26D7597688F03AE1970FF94713C0310BF7FC9683"
+          }
+        },
+        {
+          "client_id": "356579310170-r64aug45pao58gol2lpnushi6hsvitap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPkLFHhUO7QSbdkteg0q3GdTZip2j5Xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356579310170-r64aug45pao58gol2lpnushi6hsvitap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
